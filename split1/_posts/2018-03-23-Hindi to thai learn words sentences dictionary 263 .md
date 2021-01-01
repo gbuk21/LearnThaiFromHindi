@@ -17,3 +17,6 @@ How to learn Thai words and sentences for Hindi speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split1/_posts/2018-01-13-Hindi to thai learn words sentences dictionary 302 .md%})
+ 
